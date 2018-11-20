@@ -9,8 +9,8 @@ Introduction
 6.	Node.js is Free
 
 Why Node.js
-•	Node.js uses asynchronous programming!
-•	A common task for a web server can be to open a file on the server and return the content to the client.
+1.	Node.js uses asynchronous programming!
+2.	A common task for a web server can be to open a file on the server and return the content to the client.
 Difference between other server languages 
 Here is how PHP or ASP handles a file request:
 1.	Sends the task to the computer's file system.
@@ -24,15 +24,15 @@ Here is how Node.js handles a file request:
 Node.js eliminates the waiting, and simply continues with the next request.
 Node.js runs single-threaded, non-blocking, asynchronously programming, which is very memory efficient.
 What Can Node.js Do?
-•	Node.js can generate dynamic page content
-•	Node.js can create, open, read, write, delete, and close files on the server
-•	Node.js can collect form data
-•	Node.js can add, delete, modify data in your database
+1.	Node.js can generate dynamic page content
+2.	Node.js can create, open, read, write, delete, and close files on the server
+3.	Node.js can collect form data
+4.	Node.js can add, delete, modify data in your database
  What is a Node.js File?
-•	Node.js files contain tasks that will be executed on certain events
-•	A typical event is someone trying to access a port on the server
-•	Node.js files must be initiated on the server before having any effect
-•	Node.js files have extension ".js"
+5.	Node.js files contain tasks that will be executed on certain events
+6.	A typical event is someone trying to access a port on the server
+7.	Node.js files must be initiated on the server before having any effect
+8.	Node.js files have extension ".js"
 
 Getting Started
 The official Node.js website has installation instructions for Node.js: https://nodejs.org
