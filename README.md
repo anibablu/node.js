@@ -1,12 +1,12 @@
 # node.js
 Node Js Preparation an Information Document for Beginners
 Introduction
-•	Node.js is an open source server environment.
-•	Node.js allows you to run JavaScript on the server.
-•	Node.js is an open source server environment
-•	Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
-•	Node.js uses JavaScript on the server
-•	Node.js is Free
+1. Node.js is an open source server environment.<br/>
+2.	Node.js allows you to run JavaScript on the server.
+3.	Node.js is an open source server environment
+4.	Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+5.	Node.js uses JavaScript on the server
+6.	Node.js is Free
 
 Why Node.js
 •	Node.js uses asynchronous programming!
@@ -54,10 +54,10 @@ Start your internet browser, and type in the address: http://localhost:8080
 
 
 REPL stands for Read Eval Print Loop and it represents a computer environment like a Windows console or Unix/Linux shell where a command is entered, and the system responds with an output in an interactive mode. Node.js or Node comes bundled with a REPL environment. It performs the following tasks −
-•	Read − Reads user's input, parses the input into JavaScript data-structure, and stores in memory.
-•	Eval − Takes and evaluates the data structure.
-•	Print − Prints the result.
-•	Loop − Loops the above command until the user presses ctrl-c twice.
+1.	Read − Reads user's input, parses the input into JavaScript data-structure, and stores in memory.
+2.	Eval − Takes and evaluates the data structure.
+3.	Print − Prints the result.
+4.	Loop − Loops the above command until the user presses ctrl-c twice.
 The REPL feature of Node is very useful in experimenting with Node.js codes and to debug JavaScript codes.
 
 
