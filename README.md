@@ -53,3 +53,12 @@ If anyone tries to access your computer on port 8080, they will get a "Hello Wor
 Start your internet browser, and type in the address: http://localhost:8080
 
 
+REPL stands for Read Eval Print Loop and it represents a computer environment like a Windows console or Unix/Linux shell where a command is entered, and the system responds with an output in an interactive mode. Node.js or Node comes bundled with a REPL environment. It performs the following tasks −
+•	Read − Reads user's input, parses the input into JavaScript data-structure, and stores in memory.
+•	Eval − Takes and evaluates the data structure.
+•	Print − Prints the result.
+•	Loop − Loops the above command until the user presses ctrl-c twice.
+The REPL feature of Node is very useful in experimenting with Node.js codes and to debug JavaScript codes.
+
+
+
